@@ -30,7 +30,7 @@ $http.get('/the/things').then(function () {
 Timer.end('wat');
 ```
 
-## #dump(name)`
+## `#dump(name)`
 
 ```javascript
 // dump all the things! this will also call Timer.end() for you
