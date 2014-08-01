@@ -39,5 +39,5 @@ Timer.dump('wat');
 // Dumping results for "wat"
 // "Get all the things!": 150ms
 // "Got all the things!": 2000ms
-// Total duration for "wat": 2100ms
+// Total duration for "wat": 2150ms
 ```
